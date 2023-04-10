@@ -2,5 +2,10 @@
 
 # HTML 基礎練習：第一個 web Page 與課表
 
-![image]()
-![image]()
+### 第一個 web Page
+
+![image](https://github.com/wdaweb/html--wo-de-di-yi-ge-wang-ye-adad09382/blob/main/READMEimages/FirstWbPage.html.png)
+
+### 課表
+
+![image](https://github.com/wdaweb/html--wo-de-di-yi-ge-wang-ye-adad09382/blob/main/READMEimages/ClassSchedule.png)
